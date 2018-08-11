@@ -8,4 +8,4 @@ github_username:  jasonisapotato
 
 # Build settings
 markdown: kramdown
-theme: minima
+remote_theme: "mmistakes/minimal-mistakes"
